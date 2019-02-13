@@ -522,7 +522,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Lyrics.ovh](http://docs.lyricsovh.apiary.io/) | Simple API to retrieve the lyrics of a song | No | Yes | Unknown |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Search Mixcloud database, embeddable widget | `OAuth` | Yes | Yes |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Open source music metadata encyclopedia | No | Yes | Unknown |
-| [Musikki](https://music-api.musikki.com/reference) | Real-time music database, aggregates info from multiple APIs | `apiKey` | Yes | Unknown |
+| [Musikki](https://github.com/musikki/musikki-api-client) | Real-time music database, aggregates info from multiple APIs | `apiKey` | Yes | Unknown |
 | [Musixmatch](https://developer.musixmatch.com/) | Search for songs by artist, title or lyrics, retrieve lyrics, surround lyrics with song metadata | `apiKey` | Yes | Unknown |
 | [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...) | `No` | Yes | No |
 | [Songkick](https://www.songkick.com/developer/) | Music Events | `OAuth` | Yes | Unknown |
